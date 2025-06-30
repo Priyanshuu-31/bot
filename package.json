@@ -1,0 +1,19 @@
+{
+  "name": "gemini-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "1.7.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
